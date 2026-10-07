@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: process.env.VERCEL ? '/' : '/praktik_react_deploy/',
+  base: process.env.VERCEL ? '/' : '/Pemogram-Web-Modern/',
 })
